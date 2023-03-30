@@ -1,0 +1,5 @@
+echo "create a new file with extension .sh"
+echo "edit file by adding linux commands"
+echo "save file"
+echo "set permissions of file to executable"
+echo "run file by typing ./filename.sh"
